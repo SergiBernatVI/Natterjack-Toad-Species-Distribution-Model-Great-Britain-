@@ -41,6 +41,9 @@ The Maxent Model produced several outputs, including a habitat suitability map, 
 Visualised in QGIS (Version 3.34.1)
 - **AUC (Area Under Curve) graph:** Provides a metric by which the accuracy of the model can be assessed, the closer the values are to 1, the more accurate.
 
+![AUC Curves](auc_curves_maxent.png)
+
 - **Omission Rates graph** Shows the rate at which the model fails to predict the presence of the species.
+
 ![Omission Rates Graph](omission_rates.png)
 
