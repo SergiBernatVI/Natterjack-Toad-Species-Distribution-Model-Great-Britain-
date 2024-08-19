@@ -29,6 +29,8 @@ Both Occurence Records and Variable selection needed to be specifically selecete
 ## Data Processing
 Variables were visualised and processed using  QGIS (Version 3.34.1) and the Geospatial Data Abstraction Library (GDAL) OSGeo4W shell so that all the necessary information could be accessed by Maxent and so that the geographical dimensions remained consistent.
 
+The Maxent settings, features and regularisation multiplier used were determined using RStudio (Version 2023.12.0+369), following the tutorial from Banta(2019).
+
 ## Results
 The Maxent Model produced several outputs, including a habitat suitability map, AUC (Area Under Curve) Graphs and Omission rates.
 
