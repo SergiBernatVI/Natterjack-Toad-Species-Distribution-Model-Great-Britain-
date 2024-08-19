@@ -35,6 +35,7 @@ The Maxent settings, features and regularisation multiplier used were determined
 The Maxent Model produced several outputs, including a habitat suitability map, AUC (Area Under Curve) Graphs and Omission rates.
 
 - **Species Distribution map:** Displays regions of high suitability in warmer colours and those of a lower suitability in cooler colours.
+![Species Distribution Map](maxen_sdm.png)
 - **AUC (Area Under Curve) graph:** Provides a metric by which the accuracy of the model can be assessed, the closer the values are to 1, the more accurate.
 - **Omission Rates graph** Shows the rate at which the model fails to predict the presence of the species.
 
